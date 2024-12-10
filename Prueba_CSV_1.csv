@@ -1,194 +1,195 @@
-Cant_Comp,Comp_Res,Frec_Comp,Lug_Comp,Unid_Comp
-2	,	SI	,	Mensual	,	Brasil	,	Kg
-	,	NO	,		,		,	
-2	,	SI	,	Mensual	,	Brasil	,	Kg
-3	,	SI	,	Mensual	,	Brasil	,	Kg
-2	,	SI	,	Mensual	,	Brasil	,	Kg
-2	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-	,	NO	,		,		,	
-1	,	SI	,	Quincenal	,	Supermercado	,	Kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Quincenal	,	Supermercado	,	Kg
-1	,	SI	,	Quincenal	,	Supermercado	,	Kg
-3	,	SI	,	Semanal	,	Supermercado	,	Kg
-	,	NO	,		,		,	
-2	,	SI	,	Semanal	,	Supermercado	,	Kg
-	,	NO	,		,		,	
-2	,	SI	,	Mensual	,	Tienda_Barrio	,	Kg
-1	,	SI	,	Diario	,	Supermercado	,	Kg
-0.5	,	SI	,	Semanal	,	Supermercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-	,	NO	,		,		,	
-2	,	SI	,	Diario	,	Brasil	,	Kg
-	,	NO	,		,		,	
-2	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-2	,	SI	,	Semanal	,	Supermercado	,	Kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-1	,	SI	,	Quincenal	,	Tienda_Barrio	,	Kg
-2	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg
-3	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Quincenal	,	Brasil	,	Kg
-2	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Quincenal	,	Supermercado	,	Kg
-0.25	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-3	,	SI	,	Semanal	,	Supermercado	,	Kg
-	,	NO	,		,		,	
-3	,	SI	,	Quincenal	,	Brasil	,	kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-3	,	SI	,	Semanal	,	Supermercado	,	kg
-1	,	SI	,	Quincenal	,	Supermercado	,	kg
-2	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-1	,	SI	,	Mensual	,	Supermercado	,	kg
-0.5	,	SI	,	Mensual	,	Supermercado	,	kg
-1.5	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-0.25	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-4	,	SI	,	Mensual	,	Brasil	,	kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-2	,	SI	,	Mensual	,	Tienda_Barrio	,	kg
-	,	NO	,		,		,	
-	,	NO	,		,		,	
-0.4	,	SI	,	Semanal	,	Brasil	,	Kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-3	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-2	,	SI	,	Diario	,	Supermercado	,	kg
-3	,	SI	,	Mensual	,	Supermercado	,	kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-3	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-4	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-1	,	SI	,	Mensual	,	Brasil	,	kg
-	,	NO	,		,		,	
-1	,	SI	,	Quincenal	,	Supermercado	,	kg
-3	,	SI	,	Mensual	,	Brasil	,	kg
-1	,	SI	,	Quincenal	,	Supermercado	,	kg
-1	,	SI	,	Semanal	,	Supermercado	,	kg
-	,	NO	,		,		,	
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-	,	NO	,		,		,	
-3	,	SI	,	Semanal	,	Brasil	,	kg
-5	,	SI	,	Mensual	,	Supermercado	,	kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-2	,	SI	,	Mensual	,	Brasil	,	kg
-1	,	SI	,	Semanal	,	Supermercado	,	kg
-2	,	SI	,	Diario	,	Tienda_Barrio	,	kg
-2	,	SI	,	Mensual	,	Tienda_Barrio	,	kg
-1	,	SI	,	Quincenal	,	Tienda_Barrio	,	kg
-2	,	SI	,	Quincenal	,	Brasil	,	Kg
-3	,	SI	,	Quincenal	,	Supermercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-3	,	SI	,	Mensual	,	Supermercado	,	Kg
-1	,	SI	,	Quincenal	,	Brasil	,	Kg
-1	,	SI	,	Diario	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	Kg
-2	,	SI	,	Semanal	,	Brasil	,	Kg
-	,	NO	,		,		,	
-1.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-3	,	SI	,	Semanal	,	Supermercado	,	Kg
-2	,	SI	,	Quincenal	,	Supermercado	,	Kg
-0.5	,	SI	,	Semanal	,	Supermercado	,	Kg
-0.5	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-	,	NO	,		,		,	
-6	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-0.5	,	SI	,	Mensual	,	Supermercado	,	Kg
-4	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-0.25	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-2	,	SI	,	Mensual	,	Tienda_Barrio	,	Kg
-2	,	SI	,	Semanal	,	Supermercado	,	kg
-3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-4	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Semanal	,	Plaza_Mercado	,	kg
-1	,	SI	,	Diario	,	Supermercado	,	Kg
-	,	NO	,		,		,	
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-4	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-3	,	SI	,	Semanal	,	Supermercado	,	Kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-4	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Semanal	,	Supermercado	,	Kg
-1	,	SI	,	Diario	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	Kg
-2	,	SI	,	Semanal	,	Brasil	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	Kg
-1	,	SI	,	Quincenal	,	Brasil	,	Kg
-2	,	SI	,	Semanal	,	Supermercado	,	Kg
-3	,	SI	,	Quincenal	,	Supermercado	,	Kg
-0.5	,	SI	,	Diario	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-	,	NO	,		,		,	
-2	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Quincenal	,	Supermercado	,	Kg
-3	,	SI	,	Quincenal	,	Brasil	,	Kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Semanal	,	Brasil	,	Kg
-2	,	SI	,	Semanal	,	Supermercado	,	Kg
-0.5	,	SI	,	Semanal	,	Supermercado	,	Kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-	,	NO	,		,		,	
-2	,	SI	,	Semanal	,	Brasil	,	Kg
-4	,	SI	,	Mensual	,	Supermercado	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	Kg
-1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-1.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Mensual	,	Brasil	,	Kg
-	,	NO	,		,		,	
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-3	,	SI	,	Mensual	,	Supermercado	,	Kg
-2	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg
-2	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg
-2	,	SI	,	Semanal	,	Brasil	,	kg
-2	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	kg
-2	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Quincenal	,	Brasil	,	Kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Semanal	,	Brasil	,	Kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	Kg
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	Kg
-	,	NO	,		,		,	
-0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Brasil	,	Kg
-0.2	,	SI	,	Diario	,	Plaza_Mercado	,	Kg
-3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg
-2	,	SI	,	Semanal	,	Brasil	,	kg
-	,	NO	,		,		,	
-0.6	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Semanal	,	Supermercado	,	Kg
-0.5	,	SI	,	Quincenal	,	Supermercado	,	Kg
-1	,	SI	,	Mensual	,	Brasil	,	kg
-1.5	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Quincenal	,	Brasil	,	kg
-1	,	SI	,	Quincenal	,	Brasil	,	kg
-	,	NO	,		,		,	
-	,	NO	,		,		,	
-3	,	SI	,	Mensual	,	Brasil	,	Kg
-	,	NO	,		,		,	
-1.5	,	SI	,	Quincenal	,	Brasil	,	Kg
-2	,	SI	,	Quincenal	,	Brasil	,	Kg
-2	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg
-1	,	SI	,	Quincenal	,	Supermercado	,	Kg
+Cant_Comp		Comp_Res		Frec_Comp		Lug_Comp		Unid_Comp		Estrato
+2	,	SI	,	Mensual	,	Brasil	,	Kg	,	2
+	,	NO	,		,		,		,	3
+2	,	SI	,	Mensual	,	Brasil	,	Kg	,	3
+3	,	SI	,	Mensual	,	Brasil	,	Kg	,	3
+2	,	SI	,	Mensual	,	Brasil	,	Kg	,	3
+2	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+	,	NO	,		,		,		,	2
+1	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	3
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	3
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	3
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+2	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	3
+3	,	SI	,	Semanal	,	Supermercado	,	Kg	,	3
+	,	NO	,		,		,		,	3
+2	,	SI	,	Semanal	,	Supermercado	,	Kg	,	3
+	,	NO	,		,		,		,	2
+2	,	SI	,	Mensual	,	Tienda_Barrio	,	Kg	,	2
+1	,	SI	,	Diario	,	Supermercado	,	Kg	,	3
+0.5	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+	,	NO	,		,		,		,	1
+2	,	SI	,	Diario	,	Brasil	,	Kg	,	1
+	,	NO	,		,		,		,	1
+2	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	1
+2	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Quincenal	,	Tienda_Barrio	,	Kg	,	2
+2	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	1
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg	,	1
+3	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg	,	1
+2	,	SI	,	Quincenal	,	Brasil	,	Kg	,	1
+2	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg	,	3
+2	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	2
+0.25	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	1
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	2
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	3
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+3	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+	,	NO	,		,		,		,	1
+3	,	SI	,	Quincenal	,	Brasil	,	kg	,	2
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	2
+3	,	SI	,	Semanal	,	Supermercado	,	kg	,	1
+1	,	SI	,	Quincenal	,	Supermercado	,	kg	,	1
+2	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	2
+1	,	SI	,	Mensual	,	Supermercado	,	kg	,	3
+0.5	,	SI	,	Mensual	,	Supermercado	,	kg	,	1
+1.5	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	1
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	1
+0.25	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	2
+4	,	SI	,	Mensual	,	Brasil	,	kg	,	2
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	2
+2	,	SI	,	Mensual	,	Tienda_Barrio	,	kg	,	2
+	,	NO	,		,		,		,	2
+	,	NO	,		,		,		,	1
+0.4	,	SI	,	Semanal	,	Brasil	,	Kg	,	1
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	2
+3	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	2
+2	,	SI	,	Diario	,	Supermercado	,	kg	,	2
+3	,	SI	,	Mensual	,	Supermercado	,	kg	,	2
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	1
+3	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	2
+4	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	3
+1	,	SI	,	Mensual	,	Brasil	,	kg	,	2
+	,	NO	,		,		,		,	3
+1	,	SI	,	Quincenal	,	Supermercado	,	kg	,	1
+3	,	SI	,	Mensual	,	Brasil	,	kg	,	2
+1	,	SI	,	Quincenal	,	Supermercado	,	kg	,	3
+1	,	SI	,	Semanal	,	Supermercado	,	kg	,	3
+	,	NO	,		,		,		,	2
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	2
+	,	NO	,		,		,		,	3
+3	,	SI	,	Semanal	,	Brasil	,	kg	,	3
+5	,	SI	,	Mensual	,	Supermercado	,	kg	,	5
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	3
+2	,	SI	,	Mensual	,	Brasil	,	kg	,	1
+1	,	SI	,	Semanal	,	Supermercado	,	kg	,	3
+2	,	SI	,	Diario	,	Tienda_Barrio	,	kg	,	3
+2	,	SI	,	Mensual	,	Tienda_Barrio	,	kg	,	2
+1	,	SI	,	Quincenal	,	Tienda_Barrio	,	kg	,	2
+2	,	SI	,	Quincenal	,	Brasil	,	Kg	,	2
+3	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	1
+3	,	SI	,	Mensual	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Quincenal	,	Brasil	,	Kg	,	2
+1	,	SI	,	Diario	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Brasil	,	Kg	,	2
+2	,	SI	,	Semanal	,	Brasil	,	Kg	,	2
+	,	NO	,		,		,		,	1
+1.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	1
+3	,	SI	,	Semanal	,	Supermercado	,	Kg	,	3
+2	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	2
+0.5	,	SI	,	Semanal	,	Supermercado	,	Kg	,	1
+0.5	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	1
+	,	NO	,		,		,		,	1
+6	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	3
+0.5	,	SI	,	Mensual	,	Supermercado	,	Kg	,	2
+4	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	3
+0.25	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	1
+2	,	SI	,	Mensual	,	Tienda_Barrio	,	Kg	,	3
+2	,	SI	,	Semanal	,	Supermercado	,	kg	,	1
+3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+4	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+2	,	SI	,	Semanal	,	Plaza_Mercado	,	kg	,	3
+1	,	SI	,	Diario	,	Supermercado	,	Kg	,	2
+	,	NO	,		,		,		,	2
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+4	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	3
+3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+3	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	2
+4	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg	,	1
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+2	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg	,	2
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	3
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+2	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+1	,	SI	,	Diario	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Brasil	,	Kg	,	3
+2	,	SI	,	Semanal	,	Brasil	,	Kg	,	1
+1	,	SI	,	Semanal	,	Brasil	,	Kg	,	2
+1	,	SI	,	Quincenal	,	Brasil	,	Kg	,	2
+2	,	SI	,	Semanal	,	Supermercado	,	Kg	,	2
+3	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	2
+0.5	,	SI	,	Diario	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+	,	NO	,		,		,		,	2
+2	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	4
+1	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	1
+3	,	SI	,	Quincenal	,	Brasil	,	Kg	,	3
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+2	,	SI	,	Semanal	,	Brasil	,	Kg	,	3
+2	,	SI	,	Semanal	,	Supermercado	,	Kg	,	3
+0.5	,	SI	,	Semanal	,	Supermercado	,	Kg	,	3
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	4
+	,	NO	,		,		,		,	2
+2	,	SI	,	Semanal	,	Brasil	,	Kg	,	4
+4	,	SI	,	Mensual	,	Supermercado	,	Kg	,	3
+1	,	SI	,	Semanal	,	Brasil	,	Kg	,	3
+1	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	3
+1.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	3
+1	,	SI	,	Mensual	,	Brasil	,	Kg	,	3
+	,	NO	,		,		,		,	2
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+3	,	SI	,	Mensual	,	Supermercado	,	Kg	,	3
+2	,	SI	,	Quincenal	,	Plaza_Mercado	,	kg	,	2
+2	,	SI	,	Semanal	,	Tienda_Barrio	,	Kg	,	4
+2	,	SI	,	Semanal	,	Brasil	,	kg	,	2
+2	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Semanal	,	Brasil	,	kg	,	2
+2	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Quincenal	,	Brasil	,	Kg	,	1
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+2	,	SI	,	Semanal	,	Brasil	,	Kg	,	3
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Brasil	,	Kg	,	2
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Brasil	,	Kg	,	1
+	,	NO	,		,		,		,	2
+0.5	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+1	,	SI	,	Semanal	,	Brasil	,	Kg	,	2
+0.2	,	SI	,	Diario	,	Plaza_Mercado	,	Kg	,	2
+3	,	SI	,	Semanal	,	Plaza_Mercado	,	Kg	,	2
+2	,	SI	,	Semanal	,	Brasil	,	kg	,	2
+	,	NO	,		,		,		,	2
+0.6	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg	,	3
+1	,	SI	,	Semanal	,	Supermercado	,	Kg	,	3
+0.5	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	4
+1	,	SI	,	Mensual	,	Brasil	,	kg	,	2
+1.5	,	SI	,	Quincenal	,	Plaza_Mercado	,	Kg	,	3
+1	,	SI	,	Quincenal	,	Brasil	,	kg	,	1
+1	,	SI	,	Quincenal	,	Brasil	,	kg	,	1
+	,	NO	,		,		,		,	1
+	,	NO	,		,		,		,	2
+3	,	SI	,	Mensual	,	Brasil	,	Kg	,	2
+	,	NO	,		,		,		,	2
+1.5	,	SI	,	Quincenal	,	Brasil	,	Kg	,	3
+2	,	SI	,	Quincenal	,	Brasil	,	Kg	,	3
+2	,	SI	,	Mensual	,	Plaza_Mercado	,	Kg	,	1
+1	,	SI	,	Quincenal	,	Supermercado	,	Kg	,	2
+
 
 
